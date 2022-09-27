@@ -79,8 +79,6 @@ The model is trained in a few algorithms, but the chosen one was RandomForest Cl
 
 - **utils.py** - path of files and directories.
 
-- **fmpeg** - an .exe to download the videos.
-
 # Usage
 
 1. Clone the Repository
